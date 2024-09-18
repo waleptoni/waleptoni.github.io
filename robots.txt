@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://waleptoni.github.io/sitemap.html.gz
+Sitemap: https://waleptoni.github.io/app/sitemap.html.gz
+Sitemap: https://waleptoni.github.io/assets/sitemap.html.gz
+Sitemap: https://waleptoni.github.io/css/sitemap.html.gz
+Sitemap: https://waleptoni.github.io/includes/sitemap.html.gz
+Sitemap: https://waleptoni.github.io/item/sitemap.html.gz
+Sitemap: https://waleptoni.github.io/src/sitemap.html.gz
